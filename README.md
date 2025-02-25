@@ -1,3 +1,6 @@
+![File Upload](https://github.com/user-attachments/assets/3a1d70f8-1d36-4477-9592-ab4d9f0c15ae)
+![Chat](https://github.com/user-attachments/assets/1ba0c821-20e4-4a0b-a537-6704c48782cd)
+
 # BoWatt Assignment - RAG Pipeline
 
 A RAG pipeline that allows users to query documents using AI. Built with Go backend and Next.js frontend.
